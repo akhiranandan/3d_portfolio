@@ -1,6 +1,5 @@
 # Hey Visitor! This is Akhira Nandan. 
-The website is published here : 
-https://akhiranandan.netlify.app/
+## The website is published here : https://akhiranandan.netlify.app/
 
 This is my portfolio website made with interactive 3D models using ReactJs, ThreeJs, React Three Fiber, Tailwind CSS, Framer Motion.
 
